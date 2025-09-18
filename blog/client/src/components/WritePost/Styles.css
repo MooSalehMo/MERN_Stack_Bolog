@@ -1,0 +1,23 @@
+select {
+    appearance: none; /* Remove default arrow */
+    -webkit-appearance: none; /* Also needed for some browsers */
+    background: white; /* Replace with your arrow image */
+    background-position: right 8px center;
+    padding: 3px; /* Make space for the arrow */
+  }
+
+  .ql-container, .ql-editor, .ql-toolbar{
+    border: none !important;
+    z-index: 1 !important ;
+  }
+  .ql-container{
+    height: 200px;
+  }
+  .ql-formats span {
+    z-index: 1 !important ;
+
+  }
+
+  .a-short-description textarea {
+    max-height: 150px;
+  }

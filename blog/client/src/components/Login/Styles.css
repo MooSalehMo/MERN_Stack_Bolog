@@ -1,0 +1,9 @@
+.parentRegister, .parintLogin {
+    height: 100vh;
+}
+.login , .register{
+    height: 90vh;
+    display: flex;
+    align-items: center;
+    justify-content: center ;
+}

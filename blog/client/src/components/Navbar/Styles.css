@@ -1,0 +1,20 @@
+.bgColor {
+    background-color: aliceblue;
+}
+.blog {
+    width: 110px !important;
+}
+
+
+select {
+    background-color: transparent !important;
+    color: #333;
+    font-family: Arial, sans-serif;
+    /* padding: 8px !important; */
+    border-radius: 4px;
+  }
+  .navbar ul {
+    /* position: relative; */
+    z-index: 6 !important ;
+
+  }

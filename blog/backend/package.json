@@ -1,0 +1,23 @@
+{
+  "name": "mosaleh",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@clerk/express": "^1.3.59",
+    "body-parser": "^1.20.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^5.0.1",
+    "imagekit": "^6.0.0",
+    "mongoose": "^8.12.1",
+    "ngrok": "^5.0.0-beta.2",
+    "svix": "^1.62.0"
+  }
+}

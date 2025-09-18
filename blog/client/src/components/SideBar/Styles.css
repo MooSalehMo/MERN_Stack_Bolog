@@ -1,0 +1,6 @@
+.side-bar {
+    z-index: 1 !important;
+}
+.filter {
+    border: 1.5px solid blue !important;
+}

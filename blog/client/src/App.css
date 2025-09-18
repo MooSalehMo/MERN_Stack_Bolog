@@ -1,0 +1,26 @@
+* a {
+  display: inline-block;
+  text-decoration: none;
+}
+
+input, button,textarea, select {
+  outline: none !important;
+  border: none !important;
+}
+.mainBgColor {
+  background-color: #032a53;
+}
+.mainTextColor {
+  color: #032a53;
+}
+.mainBgColorHover {
+  background-color: #034993; 
+}
+
+.user-image-name img {
+  width: 50px;
+  height: 50px ;
+}
+.mainBodyColor {
+  background-color: aliceblue;
+}

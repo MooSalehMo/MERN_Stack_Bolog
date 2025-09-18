@@ -1,0 +1,19 @@
+.facebook {
+    background-color: #1877F2;
+    /* Add other styles like padding, border, etc. */
+  }
+  
+  .instagram {
+    background: linear-gradient(to bottom, #405DE6, #5B51D8, #833AB4, #C13584, #E1306C, #FD1D1D, #F56040, #F77737);
+    /* Add other styles like padding, border, etc. */
+  }
+  
+  /* Example of adding padding and rounded corners */
+  .facebook,
+  .instagram {
+    /* padding: 10% 10% ; */
+    width: 30px;
+    height: 30px;
+    color: white; /* Example: White text on the buttons */
+    border-radius: 50%;
+  }
